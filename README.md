@@ -1,3 +1,3 @@
-# ecommerce-website
+# MyCart
 
-file:///C:/Users/KIIT/Desktop/MyCart.html
+The frontend design of an e-commerce website- MyCart developed using HTML, CSS & JavaScript.
